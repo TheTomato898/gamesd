@@ -79,13 +79,13 @@ body {
 }
 
 
-.game h3 {
+.game .description h3 {
   padding: 2px 10%;
   font-size: 35px;
 }
 
 
-.game p {
+.game .description p {
   padding: 0px 10%;
   font-size: 17px;
 }
