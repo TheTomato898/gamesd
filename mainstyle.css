@@ -95,6 +95,7 @@ body {
   width: 100%;
   padding: 0px;
   border-radius: 15px 15px 0px 0px;
+  overflow: hidden;
 }
 
 
