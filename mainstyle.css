@@ -91,6 +91,11 @@ body {
 }
 
 
+.game.img {
+  width: 80%;
+}
+
+
 @media (max-width: 550px) {
   
   body {
